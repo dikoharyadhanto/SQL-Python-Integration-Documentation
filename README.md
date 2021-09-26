@@ -31,6 +31,6 @@ How to connect SQL to Python and modified it
 3. Assigning the Results of Queries to Python Variables
 4. Converting Query Results to DataFrame
 
-# SQL Projects
-## [Project 1](https://github.com/dikoharyadhanto/SQL-Python-Integration-Documentation/blob/bb34a24a470acc79a464f44a7b0eb51c1b8469fd/DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb)
-## [Final Assignment](https://github.com/dikoharyadhanto/SQL-Python-Integration-Documentation/blob/bb34a24a470acc79a464f44a7b0eb51c1b8469fd/DB0201EN-PeerAssign-v5.ipynb)
+## SQL Projects
+### [Project 1](https://github.com/dikoharyadhanto/SQL-Python-Integration-Documentation/blob/bb34a24a470acc79a464f44a7b0eb51c1b8469fd/DB0201EN-Week3-1-4-Analyzing-v5-py.ipynb)
+### [Final Assignment](https://github.com/dikoharyadhanto/SQL-Python-Integration-Documentation/blob/bb34a24a470acc79a464f44a7b0eb51c1b8469fd/DB0201EN-PeerAssign-v5.ipynb)
